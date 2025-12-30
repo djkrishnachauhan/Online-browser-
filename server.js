@@ -6,16 +6,17 @@ const port = process.env.PORT || 3000; // Render PORT env var use karega
 
 // Replace with your 10 URLs
 const urls = [
-  'https://example.com/1',
-  'https://example.com/2',
-  'https://example.com/3',
-  'https://example.com/4',
-  'https://example.com/5',
-  'https://example.com/6',
-  'https://example.com/7',
-  'https://example.com/8',
-  'https://example.com/9',
-  'https://example.com/10'
+  'https://youtu.be/RXwYYWHjJ1w?si=dnCa-KQIDuIGxtOR',
+  'https://youtu.be/o6tX6zWU2ME?si=WyECncRqEMC-bgw3',
+  'https://youtu.be/OoOozEzLyk4?si=u6Ieeo77xQP9b1mg',
+  'https://youtu.be/Q0v-WSguTnk?si=YFoBw3YxRdj6uGz_',
+  'https://youtu.be/8uDJz--LAn0?si=_Q_aBK6xeYd4YHOh',
+  'https://youtu.be/sQbEQktxdXs?si=1t86zvLW7Fm8g6JQ',
+  'https://youtu.be/Ibca5DYxOwY?si=reE5VV07_HdxVKxN',
+  'https://youtu.be/_fuoSEe5Rsk?si=wh-hbaY2YelGKerK',
+  'https://youtu.be/Q0YkHEwyIjA?si=hPG1xqb3KZ-MEQcZ',
+  'https://youtu.be/VdOIdmrYwKY?si=jvb5BiC2RB2tQP5H',
+  'https://youtu.be/NSK10_ZqUIo?si=0cbitMJ3gyzIJZFe'
 ];
 
 let browser;
