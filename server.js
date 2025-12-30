@@ -15,8 +15,7 @@ const urls = [
   'https://youtu.be/Ibca5DYxOwY?si=reE5VV07_HdxVKxN',
   'https://youtu.be/_fuoSEe5Rsk?si=wh-hbaY2YelGKerK',
   'https://youtu.be/Q0YkHEwyIjA?si=hPG1xqb3KZ-MEQcZ',
-  'https://youtu.be/VdOIdmrYwKY?si=jvb5BiC2RB2tQP5H',
-  'https://youtu.be/NSK10_ZqUIo?si=0cbitMJ3gyzIJZFe'
+  'https://youtu.be/VdOIdmrYwKY?si=jvb5BiC2RB2tQP5H'
 ];
 
 let browser;
