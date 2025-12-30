@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-automation",
+  "version": "1.0.0",
+  "description": "Express server with Puppeteer automation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "npx puppeteer browsers install chrome"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^23.5.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
